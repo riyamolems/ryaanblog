@@ -45,9 +45,9 @@ body {
 
 }
 .links:hover{
-    background-color: crimson;
+    background-color: white;
 }
-}
+
 
 .welcomeclass {
       color:white;
@@ -64,6 +64,7 @@ body {
 }
 #bio{
     text-align: center;
+    font-family: 'Lobster', cursive;
 }
 p{
     max-width: 450px;
